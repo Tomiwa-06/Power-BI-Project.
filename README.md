@@ -18,8 +18,6 @@ Welcome to my Power BI knowledge base! This document highlights my understanding
 
 ---
 
----
-
 ## 📈 Data Sources
 
 I have experience connecting Power BI to:
@@ -76,12 +74,6 @@ Creating interactive reports with:
 - Creating and sharing dashboards
 - Embedding reports in Teams or SharePoint
 - Setting up row-level security (RLS)
-
----
-
-
----
-
 
 ---
 
